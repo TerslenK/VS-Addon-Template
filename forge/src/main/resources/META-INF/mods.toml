@@ -1,7 +1,7 @@
 modLoader = "javafml"
 loaderVersion = "[${forge_version},)"
 issueTrackerURL = "https://github.com/ValkyrienSkies/Valkyrien-Skies-2/issues"
-license = "Apache-2.0"
+license = "MIT License"
 
 [[mods]]
 modId = "vs_addon"

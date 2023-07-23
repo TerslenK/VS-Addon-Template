@@ -9,9 +9,9 @@
   ],
   "contact": {
     "homepage": "https://valkyrienskies.org/",
-    "sources": "https://github.com/ValkyrienSkies/VSCreate"
+    "sources": "https://github.com/TechTastic/VS-Addon-Template"
   },
-  "license": "Apache-2.0",
+  "license": "MIT License",
   "icon": "assets/vs_addon/icon.png",
   "environment": "*",
   "entrypoints": {
